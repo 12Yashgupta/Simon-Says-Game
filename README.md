@@ -1,0 +1,3 @@
+# Simon Says Game
+
+ I have successfully designed and implemented a digital version of the 'Simon Says' game using a combination of HTML, CSS, and JavaScript. This project not only showcases my proficiency in front-end web development but also highlights my ability to create engaging and interactive user experiences. By leveraging my expertise in JavaScript for game logic and seamlessly integrating it with HTML and CSS for a visually appealing interface, I successfully delivered a dynamic and responsive version of the classic 'Simon Says' game. This project not only demonstrates my technical prowess but also reflects my commitment to crafting innovative solutions that blend functionality with a captivating user interface."
